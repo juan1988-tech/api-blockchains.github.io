@@ -1,0 +1,122 @@
+[
+  {
+    "number": "1",
+    "name":"Google Analytics",
+    "image": "https://juan1988-tech.github.io/api-blockchains/digital-marketing/google-analytics.svg"
+  },
+  {
+    "number": "2",
+    "name":"Google Ads",
+    "image": "https://juan1988-tech.github.io/api-blockchains/digital-marketing/google-ads.svg" 
+  },
+  {
+    "number": "3",
+    "name":"Google Partner",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/google-partner.svg"
+  },
+  {
+    "number": "3",
+    "name":"Google Data Studio",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/google-data-studio.svg"
+  },
+  {
+    "number": "4",
+    "name":"Google Tag Manger",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/google-tag-manager.svg"
+  },
+  {
+    "number": "5",
+    "name":"Facebook Ads",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/facebook-ads.svg"
+  },
+  {
+    "number": "6",
+    "name":"Instagram Ads",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/instagram-ads.svg"
+  },
+  {
+    "number":"7",
+    "name":"Linkedin Ads",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/linkedin-ads.svg"
+  },
+  {
+    "number":"8",
+    "name":"Tik Tok Ads",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/tik-tok-ads.svg"
+  },
+  {
+    "number":"9",
+    "name":"YouTube Ads",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/youtube-ads.svg"
+  },
+  {
+    "number":"10",
+    "name":"Vtex",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/ve-text.svg  "
+  },
+  {
+    "number":"11",
+    "name":"Magento",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/magento.svg"
+  },
+  {
+    "number":"12",
+    "name":"Wordpress",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/wordpress.svg"
+  },
+  {
+    "number":"13",
+    "name": "Woo commerce",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/woo-commerce.svg"
+  },
+  {
+    "number":"14",
+    "name":"Shopify",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/shopify.svg"
+  },
+  {
+    "number":"15",
+    "name":"Python",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/phyton.svg"
+  },
+  {
+    "number":"16",
+    "name":"Python",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/bootstrap.svg"
+  },
+  {
+    "number":"17",
+    "name":"React",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/react.svg"
+  },
+  {
+    "number":"18",
+    "name":"Cpanel",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/cpanel.svg"
+  },
+  {
+    "number":"19",
+    "name":"Javascript",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/javascript-logo.svgW"
+  },
+  {
+    "number":"20",
+    "name":"SemRush",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/sem-rush.svg"
+  },
+  {
+    "number":"21",
+    "name":"Discord",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/discord%20-%20Original.svg"
+  },
+  {
+    "number":"22",
+    "name":"twitter",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/twitter-logo.svg"
+  },
+  {
+    "number":"23",
+    "name":"Reddit",
+    "image":"https://juan1988-tech.github.io/api-blockchains/digital-marketing/reddit.svg"
+  }
+]

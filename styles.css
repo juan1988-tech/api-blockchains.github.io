@@ -54,3 +54,21 @@ header h2{
   width: 180px;
   max-width: 180px;
 }
+
+.buttons{
+  display: inline-flex;
+  justify-content: space-around;
+  width: 100vw;
+  margin-top: 1rem;
+}
+
+.buttons a{
+  background: #FF00FE;
+  color: white;
+  text-decoration: none;
+  width: 300px;
+  text-align: center;
+  height: 2rem;
+  border-radius: 1rem;
+  padding-top: .2rem;
+}
