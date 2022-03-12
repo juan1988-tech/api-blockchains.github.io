@@ -9,7 +9,7 @@
     "number": "2",
     "name":"Solana",
     "prefix":"SOL",
-    "image": "https://juan1988-tech.github.io/api-blockchains/coins/solana-sol-seeklogo.com.svg"
+    "image": "https://juan1988-tech.github.io/api-blockchains/coins/solana.svg"
   },
   {
     "number": "3",
@@ -21,7 +21,7 @@
     "number": "4",
     "name":"Polcadot",
     "prefix":"DOT",
-    "image": "https://juan1988-tech.github.io/api-blockchains/coins/polkadot-seeklogo.com.svg"
+    "image": "https://juan1988-tech.github.io/api-blockchains/coins/polkadot.svg"
   },
   {
     "number": "5",
@@ -81,7 +81,7 @@
     "number": "14",
     "name":"PancakeSwap",
     "prefix":"CAKE",
-    "image":"https://juan1988-tech.github.io/api-blockchains/coins/pancakeswap-cake-seeklogo.com.svg"
+    "image":"https://juan1988-tech.github.io/api-blockchains/coins/pancakeswap.svg"
   },
   {
     "number": "15",
@@ -99,7 +99,7 @@
     "number": "17",
     "name":"Metamax",
     "prefix":"Wallet",
-    "image":"https://juan1988-tech.github.io/api-blockchains/coins/metamask-seeklogo.com.svg "
+    "image":"https://juan1988-tech.github.io/api-blockchains/coins/metamax.svg"
   },
   {
     "number": "18",
