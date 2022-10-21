@@ -19,7 +19,7 @@
   },
   {
     "number": "4",
-    "name":"Polcadot",
+    "name":"Polkadot",
     "prefix":"DOT",
     "image": "https://juan1988-tech.github.io/api-blockchains.github.io/coins/polkadot.svg"
   },
@@ -97,7 +97,7 @@
   },
   {
     "number": "17",
-    "name":"Metamax",
+    "name":"Metamask",
     "prefix":"Wallet",
     "image":"https://juan1988-tech.github.io/api-blockchains.github.io/coins/metamax.svg"
   },
